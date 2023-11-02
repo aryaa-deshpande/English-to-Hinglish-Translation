@@ -12,7 +12,7 @@
 
 1. The model and dataset have been taken from `Hugging Face`.
 2. The model is trained on the dataset.
-3. English sentences are input to the model, and Hinglish sentences are output.
+3. English sentences are input to the model, and Hinglish sentences are given as output.
 4. The Hinglish sentences are translated to Hindi text.
 5. The final outputs are saved to.
 
