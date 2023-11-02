@@ -1,0 +1,11 @@
+1.  English sentence given : I was waiting for my bag
+    Hinglish sentence after translation from the model : mai apne bag ke liye wait kar raha tha
+    Hinglish with hindi text : मई अपने bag लिए इंतज़ार कौन अगर था
+
+2.  English sentence given : So even if it's a big video, I will clearly mention all the products
+    Hinglish sentence after translation from the model : To if it's a big video, mai sabhi productions ke baare mein badal kar jaunga
+    Hinglish with hindi text : को if it's a big वीडियो, मई सभी productions पता लगाना मीन बादल कौन जाऊंगा
+
+3.  English sentence given : Definitely share your feedback in the comment section
+    Hinglish sentence after translation from the model : sabse aapke suition section mein share kare
+    Hinglish with hindi text : सबसे आपके शरारत करना अनुभाग मीन share रक्षा करना
